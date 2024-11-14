@@ -1,0 +1,31 @@
+  native-path:          BAT0
+  vendor:               Sunwoda-
+  model:                HB6081V1ECW-41
+  serial:               2923
+  power supply:         yes
+  updated:              Tue 12 Nov 2024 11:19:45 PM MSK (25 seconds ago)
+  has history:          yes
+  has statistics:       yes
+  battery
+    present:             yes
+    rechargeable:        yes
+    state:               discharging
+    warning-level:       none
+    energy:              28.3138 Wh
+    energy-empty:        0 Wh
+    energy-full:         46.0539 Wh
+    energy-full-design:  55.2372 Wh
+    energy-rate:         6.35648 W
+    voltage:             15.269 V
+    charge-cycles:       422
+    time to empty:       4.5 hours
+    percentage:          61%
+    capacity:            83.3748%
+    technology:          lithium-ion
+    icon-name:          'battery-full-symbolic'
+  History (rate):
+    1731442785	6.356	discharging
+    1731442768	7.823	discharging
+    1731442738	6.173	discharging
+    1731442708	5.791	discharging
+
